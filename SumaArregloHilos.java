@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
-
+//
 public class SumaArregloHilos extends Thread {
 	static int hilos = 1;
 	static int[] resultado = null;
