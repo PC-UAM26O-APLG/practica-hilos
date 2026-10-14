@@ -37,7 +37,7 @@ A continuación se detallan las instrucciones para compilar y ejecutar cada uno 
   java SumaArreglo 20
   ```
 
-####Versiones Concurrentes (Thread, Runnable y Callable)
+#### Versiones Concurrentes (Thread, Runnable y Callable)
 Para estas versiones se requiere indicar el tamaño del arreglo ($N$) y el número de hilos ($H$) a utilizar:   
 
 * **Compilación:**
