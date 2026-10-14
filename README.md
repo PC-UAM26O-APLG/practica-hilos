@@ -32,12 +32,12 @@ A continuación se detallan las instrucciones para compilar y ejecutar cada uno 
   javac SumaArreglo.java
   ```
 
-##Ejecución:
+* **Ejecución:**
   ```bash
   java SumaArreglo 20
   ```
 
-##Versiones Concurrentes (Thread, Runnable y Callable)
+####Versiones Concurrentes (Thread, Runnable y Callable)
 Para estas versiones se requiere indicar el tamaño del arreglo ($N$) y el número de hilos ($H$) a utilizar:   
 
 * **Compilación:**
@@ -45,30 +45,30 @@ Para estas versiones se requiere indicar el tamaño del arreglo ($N$) y el núme
   javac SumaArreglo.java
   ```
 
-##Ejecución:
+* **Ejecución:**
   ```bash
   java SumaArreglo 20 4
   ```
 
-##Ejercicio Integrador: N-Reinas
-###Versión secuencial
+### 2. Ejercicio Integrador: N-Reinas
+#### Versión secuencial
 * **Compilación:**
   ```bash
   javac NReinas.java
   ```
 
-##Ejecución:
+* **Ejecución:**
   ```bash
   java NReinas 8
   ```
 
-##Versión Concurrente
+#### Versión Concurrente
 * **Compilación:**
   ```bash
   javac NReinas.java
   ```
 
-##Ejecución:
+* **Ejecución:**
   ```bash
   java NReinas [N] [Hilos]
   ```
